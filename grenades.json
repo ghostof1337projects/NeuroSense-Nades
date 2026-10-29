@@ -451,20 +451,35 @@
             }
           ]
         },
-      ]
-      {
-         "x": 320.88538,
-         "y": -1711.944,
-         "z": -179.53125,
-         "aim_points": [
-           {
+        {
+          "x": 320.88538,
+          "y": -1711.944,
+          "z": -179.53125,
+          "aim_points": [
+            {
               "label": "Flash A Site",
               "type": "flash",
               "pitch": 39.564774,
               "yaw": 149.39996,
               "throw_type": "Left click"
             }
-           ]
+          ]
+        },
+        {
+          "x": 320.885,
+          "y": -1711.94,
+          "z": -179.531,
+          "aim_points": [
+            {
+              "label": "Logged Lineup",
+              "type": "smoke",
+              "pitch": 39.5648,
+              "yaw": 149.4,
+              "throw_type": "Left click"
+            }
+          ]
+        }
+      ]
     },
     {
       "map": "de_inferno",
@@ -566,34 +581,34 @@
               "throw_type": "Left click + Jumpthrow"
             }
           ]
-        }
-      ]
-    },
-    {
-      "x": 436.038,
-      "y": 2879.03,
-      "z": 162.734,
-      "aim_points": [
+        },
         {
-          "label": "Molly Church",
-          "type": "molotov",
-          "pitch": -47.2208,
-          "yaw": 40.8354,
-          "throw_type": "Left click"
-        }
-      ]
-    },
-    {
-      "x": 537.183,
-      "y": 3094.05,
-      "z": 211.886,
-      "aim_points": [
+          "x": 436.038,
+          "y": 2879.03,
+          "z": 162.734,
+          "aim_points": [
+            {
+              "label": "Molly Church",
+              "type": "molotov",
+              "pitch": -47.2208,
+              "yaw": 40.8354,
+              "throw_type": "Left click"
+            }
+          ]
+        },
         {
-          "label": "Flash Banana",
-          "type": "flash",
-          "pitch": 6.52979,
-          "yaw": -98.0369,
-          "throw_type": "Left click + Jumpthrow"
+          "x": 537.183,
+          "y": 3094.05,
+          "z": 211.886,
+          "aim_points": [
+            {
+              "label": "Flash Banana",
+              "type": "flash",
+              "pitch": 6.52979,
+              "yaw": -98.0369,
+              "throw_type": "Left click + Jumpthrow"
+            }
+          ]
         }
       ]
     },
@@ -697,8 +712,7 @@
               "throw_type": "Left click + Jumpthrow"
             }
           ]
-        },
-
+        }
       ]
     },
     {
@@ -831,8 +845,7 @@
               "throw_type": "Left Click Throw"
             }
           ]
-        },
-
+        }
       ]
     },
     {
