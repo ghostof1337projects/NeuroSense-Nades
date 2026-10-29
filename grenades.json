@@ -452,19 +452,19 @@
           ]
         },
       ]
-        {
- "x": 320.88538,
-       "y": -1711.944,
-       "z": -179.53125,
+      {
+         "x": 320.88538,
+         "y": -1711.944,
+         "z": -179.53125,
          "aim_points": [
            {
-               "label": "Flash A Site",
-             "type": "flash",
-             "pitch": 39.564774,
-            "yaw": 149.39996,
-             "throw_type": "Left click"
+              "label": "Flash A Site",
+              "type": "flash",
+              "pitch": 39.564774,
+              "yaw": 149.39996,
+              "throw_type": "Left click"
             }
-           ]        },
+           ]
     },
     {
       "map": "de_inferno",
